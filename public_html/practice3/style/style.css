@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    font-family: arial;
+}
+
+.number{
+    line-height:2;
+    
+}
+h1{
+    font-family: "Arial Black";
+    color: #ffe011;
+    font-weight: bold;
+    
+}
+h1 > span{
+    color: white;
+    font-family: "Arial Black";
+    font-weight: bold;
+}
+.head{
+    background: linear-gradient(to bottom,#2f4ff3,#5338c7);
+    text-align: center;
+    margin: 0;
+    padding: 100px;
+    line-height: 1;
+    color: white;
+    font-size: 15pt;
+    margin:0;
+}
+.block1{
+    background: red;
+    width: 100%;
+    text-align: left;
+    line-height: 1.5;
+    font-size: 14pt;
+    float: left;
+    padding-left: 80px;
+    padding-top: 40px;
+}
+.photo{
+    background: yellow;
+    width: %;
+    float: right;
+}
+div > p> img{
+    height: 213px;
+    width: 160px;
+    float: right;
+}
