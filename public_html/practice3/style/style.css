@@ -33,7 +33,8 @@ h1 > span{
 }
 .block1{
     background: red;
-    width: 100%;
+    width: 50%;
+    height: 200px;
     text-align: left;
     line-height: 1.5;
     font-size: 14pt;
@@ -43,11 +44,11 @@ h1 > span{
 }
 .photo{
     background: yellow;
-    width: %;
+    width: 50%;
+    height: 200px;
     float: right;
 }
-div > p> img{
-    height: 213px;
-    width: 160px;
-    float: right;
+.photo img{
+    padding-left: 100px;
+    
 }
